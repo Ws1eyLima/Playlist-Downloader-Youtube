@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyAWXYB9VVPuI_diXRhv8ii0GrOce0hOCI0";
+const API_KEY = ;
 const fetchBtn = document.getElementById("fetchBtn");
 const playlistContainer = document.getElementById("playlistContainer");
 
